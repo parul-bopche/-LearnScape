@@ -1,2 +1,37 @@
-# -LearnScape
-Developed a full-stack study platform (MERN) with responsive design for optimal device experience. Achievements include implementing user authentication, reducing unauthorized access by 40%, integrating payment gateways, increasing transaction success by 30%, and creating a rating system that boosted user feedback submissions by 50%.
+# MERN Stack Project: Build and Deploy a Real Time Chat App | JWT, Socket.io
+
+![Demo App](https://i.ibb.co/fXmZdnz/Screenshot-10.png)
+
+[Video Tutorial on Youtube](https://youtu.be/HwCqsOis894)
+
+Some Features:
+
+-   🌟 Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI
+-   🎃 Authentication && Authorization with JWT
+-   👾 Real-time messaging with Socket.io
+-   🚀 Online user status (Socket.io and React Context)
+-   👌 Global state management with Zustand
+-   🐞 Error handling both on the server and on the client
+-   ⭐ At the end Deployment like a pro for FREE!
+-   ⏳ And much more!
+
+### Setup .env file
+
+```js
+PORT=...
+MONGO_DB_URI=...
+JWT_SECRET=...
+NODE_ENV=...
+```
+
+### Build the app
+
+```shell
+npm run build
+```
+
+### Start the app
+
+```shell
+npm start
+```
